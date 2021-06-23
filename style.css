@@ -1,0 +1,31 @@
+h1{
+    color:black;
+    justify-content: center;
+    margin-top: 40px;
+    margin-left: 540px;
+    font-family:monospace;
+}
+.header a{
+    margin-left: 1400px;
+    margin-top: 25px;
+}
+
+.header {
+    background-color:mistyrose;
+}
+
+p{
+    font-family: monospace;
+    font-size: large ;
+    stroke-width: 14;
+
+}
+h2{
+    font-family: monospace;
+    font-size: larger ;
+    stroke-width: 14;
+}
+
+.item a{
+    margin-left: 35px;
+}
